@@ -1,0 +1,16 @@
+#main img{
+  border-color: #000;
+  border-style: solid;
+}
+#main{
+  padding: 5% 7%;
+  background-color: #CDF0EA;
+}
+#head{
+  padding: 2% 2%;
+}
+#footer{
+  padding: 2% 2%;
+  text-align: center;
+  background-color: #F9F9F9;
+}
